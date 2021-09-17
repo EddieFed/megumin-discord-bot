@@ -1,5 +1,5 @@
 "use strict";
-const DEBUG = false;
+const DEBUG = true;
 
 import { prefix, APItoken } from "./config.json";
 import { Client } from "discord.js";
